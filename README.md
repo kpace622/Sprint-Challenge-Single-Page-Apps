@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Server side routing can potentially bog down your application so client side routing can speed things up in that regard. It also helps keep things local. A big benefit is that you can navigate through your application without causing a hard refresh every time.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
