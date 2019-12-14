@@ -1,6 +1,9 @@
 import React from "react";
 
-export default function WelcomePage() {
+export default function WelcomePage(props) {
+  const routeToHome = () => {
+    props.history.push('/WelcomePage')
+  };
   return (
     <section className="welcome-page">
       <header>

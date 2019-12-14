@@ -37,3 +37,9 @@ main {
 header h1 {
   text-align: center;
 }
+
+.link {
+  text-decoration: none;
+  margin: 10px;
+  font-size: 1.3rem;
+}
